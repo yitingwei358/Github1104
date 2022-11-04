@@ -1,0 +1,14 @@
+{
+  "name": "eco-power",
+  "version": "1.0.0",
+  "description": "judy's project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Judy",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.2"
+  }
+}
